@@ -840,7 +840,7 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@fortawesome/fontawesome-free@^5.12.1":
+"@fortawesome/fontawesome-free@^5.14.0":
   version "5.14.0"
   resolved "https://registry.npm.taobao.org/@fortawesome/fontawesome-free/download/@fortawesome/fontawesome-free-5.14.0.tgz#a371e91029ebf265015e64f81bfbf7d228c9681f"
   integrity sha1-o3HpECnr8mUBXmT4G/v30ijJaB8=
