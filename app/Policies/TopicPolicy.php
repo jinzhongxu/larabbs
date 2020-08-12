@@ -17,4 +17,8 @@ class TopicPolicy extends Policy
     {
         return true;
     }
+    public function saving(Topic $topic)
+    {
+        $topic->excerpt = make_excerpt($topic->body);
+    }
 }
